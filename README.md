@@ -28,6 +28,3 @@ Focused on **clean architecture, performance optimization**, and delivering reli
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnatolyPoluyaktov&layout=compact&theme=tokyonight)
 
 ---
-
-### ☕ Fun Fact
-I optimize Go code for breakfast and monitor systems before lunch.
