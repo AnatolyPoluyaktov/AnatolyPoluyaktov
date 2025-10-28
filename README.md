@@ -1,5 +1,5 @@
 # Hi, I'm Anatoly Poluyaktov 👋  
-### Senior Golang Engineer | Backend Architect | Distributed Systems Enthusiast  
+### Senior Golang Engineer
 
 💼 [LinkedIn](https://www.linkedin.com/in/anatoly-poluyaktov/)  
 📧 [avpoluyaktov@gmail.com](mailto:avpoluyaktov@gmail.com)  
