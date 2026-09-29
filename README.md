@@ -39,22 +39,22 @@
 package main
 
 type Engineer struct {
-	Name     string
-	Role     string
-	Stack    []string
-	Focus    []string
-	OpenTo   string
+        Name     string
+        Role     string
+        Stack    []string
+        Focus    []string
+        OpenTo   string
 }
 
 func main() {
-	me := Engineer{
-		Name:   "Anatoly Poluyaktov",
-		Role:   "Senior Golang Engineer",
-		Stack:  []string{"Go", "Python", "PostgreSQL", "Kafka", "Kubernetes"},
-		Focus:  []string{"distributed systems", "high load", "clean architecture"},
-		OpenTo: "challenging backend problems 🚀",
-	}
-	me.Ship()
+        me := Engineer{
+                Name:   "Anatoly Poluyaktov",
+                Role:   "Senior Golang Engineer",
+                Stack:  []string{"Go", "Python", "PostgreSQL", "Kafka", "Kubernetes"},
+                Focus:  []string{"distributed systems", "high load", "clean architecture"},
+                OpenTo: "challenging backend problems 🚀",
+        }
+        me.Ship()
 }
 ```
 
@@ -125,20 +125,22 @@ func main() {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AnatolyPoluyaktov&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=00000000&icon_color=00ADD8&title_color=00ADD8" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnatolyPoluyaktov&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=00ADD8" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnatolyPoluyaktov&theme=tokyonight" alt="Profile details" width="88%"/>
 
 <br/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=AnatolyPoluyaktov&theme=tokyonight&hide_border=true&background=00000000&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" alt="GitHub Streak"/>
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnatolyPoluyaktov&theme=tokyonight" alt="Top languages by repository"/>
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnatolyPoluyaktov&theme=tokyonight" alt="Top languages by commit"/>
+
+<br/>
+
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnatolyPoluyaktov&theme=tokyonight" alt="Stats"/>
+<img height="190" src="https://streak-stats.demolab.com?user=AnatolyPoluyaktov&theme=tokyonight&hide_border=true&background=1A1B27&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8&sideLabels=7AA2F7&dates=565F89" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AnatolyPoluyaktov&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=10&column=7" alt="Trophies"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnatolyPoluyaktov&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00ADD8&line=00ADD8&point=FFFFFF&area=true&area_color=00ADD8" alt="Contribution Graph" width="98%"/>
+<img src="https://img.shields.io/github/followers/AnatolyPoluyaktov?style=for-the-badge&logo=github&logoColor=white&color=00ADD8&labelColor=1A1B27"/>
+<img src="https://img.shields.io/github/stars/AnatolyPoluyaktov?style=for-the-badge&logo=github&logoColor=white&color=00ADD8&labelColor=1A1B27"/>
 
 </div>
 
